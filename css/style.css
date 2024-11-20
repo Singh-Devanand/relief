@@ -1372,6 +1372,7 @@ footer a:focus {
 
   .box {
     place-items: center;
+    flex-direction: column;
     padding: 3rem 0px;
   }
 
